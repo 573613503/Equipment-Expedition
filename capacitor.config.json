@@ -1,0 +1,11 @@
+{
+  "appId": "com.gearrpg.app",
+  "appName": "装备远征",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "cleartext": true
+  }
+}

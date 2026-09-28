@@ -1,0 +1,14 @@
+﻿--- boss baseStats: {"dodge":40,"attack":17,"health":2700,"thorns":0,"defense":30,"accuracy":200,"critRate":0.05,"lifesteal":0,"critDamage":0.2,"attackSpeed":0.8,"penetration":0,"shieldPower":0,"damageIncrease":0,"damageReduction":0,"elementalDamage":8,"elementalResistance":0,"elementalPenetration":0}
+bossInterval = 6  nextBossAtk0 = 4  bossAcc = 200
+player dodge = 16  accuracy = 184  def = 47  hp = 966
+--- 300 ticks 鍚? status = won  tick = 162
+playerAttack = 28  bossAttack = 30  bossMiss(鐜╁闂伩) = 2
+鏈€鍚?12 鏉℃棩蹇?
+   playerAttack | QA 瀵?鐏扮儸瀹堝崼 閫犳垚 98 鐐逛激瀹?   bossAttack | 鍙楀埌 34 鍙嶅脊浼ゅ
+   playerMiss | QA 鐨勬敾鍑昏 鐏扮儸瀹堝崼 闂伩
+   bossAttack | 鍙楀埌 23 浼ゅ
+   playerMiss | QA 鐨勬敾鍑昏 鐏扮儸瀹堝崼 闂伩
+   bossAttack | 鍙楀埌 23 浼ゅ
+   playerAttack | QA 瀵?鐏扮儸瀹堝崼 閫犳垚 98 鐐逛激瀹?   bossAttack | 鍙楀埌 23 浼ゅ
+   playerAttack | QA 瀵?鐏扮儸瀹堝崼 閫犳垚 98 鐐逛激瀹?   bossAttack | 鍙楀埌 23 浼ゅ
+   playerAttack | QA 瀵?鐏扮儸瀹堝崼 閫犳垚 98 鐐逛激瀹?   end | 鎸戞垬鎴愬姛锛佽幏寰?147 閲戝竵锛屾帀钀?1 浠惰澶囷紙宸插彂鑷抽偖绠憋級

@@ -1,0 +1,37 @@
+﻿鈥?1. 鎴樻枟涓€€璁紙妯℃嫙绂诲紑鎴樻枟椤碉級鈥斺€?鎴樻枟搴旂户缁窇瀹岋紝涓嶈鍗′綇 鈥?  [OK] 寮€鎴樻垚鍔?bmukqy67ary1r
+  閫€璁㈡椂 tick=5锛堟敹鍒?6 娆″揩鐓э級
+  [OK] 鎴樻枟宸茶繘鍏ョ粓灞€
+  [OK] 寰幆鎶婂凡缁撴潫鐨勬垬鏂椾粠 battles 閲屾竻鎺変簡
+  [OK] /battle/active 涓嶅啀杩斿洖杩涜涓殑鎴樻枟
+  [OK] lastResult 璁板綍浜嗚繖鍦烘垬鏂楋紙won锛?  [OK] 鎴樻灉璇讳竴娆″嵆娓咃紙绗簩娆¤鍙栦负绌猴紝涓嶄細鍙嶅鎻愮ず锛?  [OK] 鎴樻枟缁撴潫鍚庡彲浠ユ甯稿紑鏂版垬鏂楋細bmukqy7looxhq
+
+鈥?2. 鎴樻枟鎺ㄨ繘鎶涘紓甯革紙鍘熴€屽彧鑳介噸鍚€嶇殑鎴愬洜涔嬩竴锛夆€斺€?搴旇嚜鍔ㄦ寜澶辫触缁撶畻骞惰В閿?鈥?  [OK] 寮€鎴樻垚鍔?bmukqy7lpsi3v
+node.exe : [battle] 鎺ㄨ繘寮傚父锛屾湰鍦烘寜澶辫触缁撶畻: Error: QA 娉ㄥ叆鐨勬帹杩涘紓甯?    at inst.step (
+file:///E:/WorkBuddy/weChatGame/gear-rpg/gear-rpg/web/test_battle_recovery.mjs:
+77:27)
+所在位置 行:445 字符: 148
++ ... ns/22.22.2-3/node.exe"; & $node test_battle_recovery.mjs *>&1 | Out-F ...
++                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([battle] 鎺ㄨ繘寮傚父...very.mjs:77:27) 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    at Timeout._onTimeout (file:///E:/WorkBuddy/weChatGame/gear-rpg/gear-rpg/we
+b/src/engine/engine.js:62:13)
+    at listOnTimeout (node:internal/timers:585:17)
+    at process.processTimers (node:internal/timers:521:7)
+  [OK] 寮傚父鎴樻枟宸茶绉婚櫎锛堜笉鍐嶆案涔呭崰浣嶏級
+  [OK] 寮傚父鎴樻枟鎸夊け璐ョ粨绠楋紙status=lost锛?  [OK] 閿欒鍘熷洜琚杩涙垬鏋滐紝渚夸簬鎺掓煡锛歈A 娉ㄥ叆鐨勬帹杩涘紓甯?  [OK] 寮傚父涔嬪悗渚濈劧鍙互寮€鏂版垬鏂楋細bmukqy8at6n8v
+
+鈥?3. 涓诲姩鏀惧純锛堝壇鏈〉妯箙涓婄殑銆屾斁寮冦€嶏級鈥斺€?涔嬪悗搴旇兘绔嬪埢鍐嶆垬 鈥?  [OK] 寮€鎴樻垚鍔?bmukqy8avigfb
+  [OK] 鏀惧純鎺ュ彛姝ｅ父杩斿洖蹇収
+  [OK] 鏀惧純鍚庢病鏈夎繘琛屼腑鐨勬垬鏂?  [OK] 鏀惧純鍚庡彲浠ョ珛鍒诲紑鏂版垬鏂楋細bmukqy8avxsnj
+
+鈥?4. 鍓湰椤垫í骞呬緷璧栫殑鏁版嵁锛?battle/active锛夊瓧娈甸綈鍏?鈥?  [OK] battleId 姝ｇ‘
+  [OK] 蹇収鍚壇鏈悕/Boss 鍚嶏紙鐏扮儸閬楄抗 路 鐏扮儸瀹堝崼锛?  [OK] 蹇収鍚?Boss 琛€閲忥紙妯箙杩涘害鐢級
+
+鈥?5. 缁撶畻骞傜瓑锛氬悓涓€鍦烘垬鏂椾笉浼氳缁撶畻涓ゆ 鈥?  [OK] 鑳滃埄璁℃暟鎭板ソ +1锛堟垬鏂?won锛? 鈫?1锛屾湡鏈?+1锛?  [OK] 鎴樻枟宸蹭粠 battles 娓呮帀
+
+鈥?6. 鍒犳。閲嶅紑鍚庯紝鏃у瓨妗ｉ仐鐣欑殑鎴樻枟涓嶅緱姹℃煋鏂版。 鈥?  [OK] 鏃ф垬鏂楁病鏈夋妸璁℃暟璁拌繘鏂版。锛坆attlesWon=0锛屾湡鏈?0锛?  [OK] 鏃ф垬鏂椾粛琚竻鐞嗘帀锛堜笉娈嬬暀鍦ㄨ〃閲岋級
+
+==== 23 閫氳繃 / 0 澶辫触 ====

@@ -1,0 +1,12 @@
+0 broken {"prefix":0,"suffix":0,"effect":0}
+1 common {"prefix":1,"suffix":0,"effect":0}
+2 fine {"prefix":1,"suffix":1,"effect":0}
+3 rare {"prefix":1,"suffix":1,"effect":1}
+4 epic {"prefix":2,"suffix":1,"effect":1}
+5 legendary {"prefix":2,"suffix":2,"effect":1}
+6 mythic {"prefix":2,"suffix":2,"effect":2}
+7 primordial {"prefix":2,"suffix":2,"effect":2}
+effectPoolFor weapon fine: []
+effectPoolFor weapon rare: [{"templateId":"eff_rage"},{"templateId":"eff_laceration"},{"templateId":"eff_refocus"},{"templateId":"eff_tidal"},{"templateId":"eff_momentum"},{"templateId":"eff_combo"},{"templateId":"eff_phaseshift"},{"templateId":"eff_overwhelm"},{"templateId":"eff_drain"},{"templateId":"eff_hobble"},{"templateId":"eff_berserk"},{"templateId":"eff_pursuit"},{"templateId":"eff_rend"},{"templateId":"eff_bloodrush"},{"templateId":"eff_exploit"},{"templateId":"eff_snare"},{"templateId":"eff_drill"},{"templateId":"eff_surge"},{"templateId":"eff_steadyaim"},{"templateId":"eff_counterstrike"}]
+EFFECTS ids: eff_rage,eff_laceration,eff_refocus,eff_ironwall,eff_lastresort,eff_tidal,eff_momentum,eff_combo,eff_phaseshift,eff_overwhelm
+has eff_rage: true
